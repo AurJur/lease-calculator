@@ -9,3 +9,4 @@ You can choose from a few properties for a test e.g. case002_01.properties or ca
 Look for generated html raport in root folder.
 
 One test fails on purpose.
+Temp
